@@ -95,7 +95,7 @@ namespace COMP003A.Assignment3
             }
             else
             {
-                Console.WriteLine("Invalid day!"); // same ting ~drake toronto accent (not a number)
+                Console.WriteLine("Invalid day!"); // same ting ~ drake toronto accent (not a number)
             }
         }
     }
